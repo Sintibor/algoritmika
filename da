@@ -1,0 +1,47 @@
+<html>
+     <head>
+    <title>Creating games</title>
+     </head>
+    <body style="font-family:sans-serif">
+        <header style="background: lightgreen; text-align:center">
+         <img src="https://drive.google.com/file/d/1DGRF-YKL0zdoB57V5DqtNJwWcNeGzchA/view?usp=sharing" width="20px" height="20px">
+          <a href="#games"><font color="black">Прайс-лист.</font></a>
+          <a href="#site"><font color="black">Что делать если работа не устроила?</font></a>
+        </header>
+        <main>
+         <h1 style="text-align:center">Creating games</h1>
+         <h1 style="text-align:center">Студия по разработке игр</h1>
+           <p><h3><b>Creating games-это надёжная, проверенная студия по разработке игр</b></h3></p>
+           <img src="https://media.axe.rs/2015/10/slike_vesti_ostalo_2015_Oktobar_26_Nordeus_Hackathon_Slike_Nordeus_Hackathon_1.jpg" width="800px" height="500px">
+        <h2 style="text-align:center">Какие игры мы делаем?</h2>
+           <br/><b>Мы делаем игры в любом жанре, по вашему желанию</b>
+           <br/><b>Вы можете сказать жанр, а мы можем сделать игру на свое усмотрение, если вы захотите</b>
+           <br/><img src="https://mars.algoritmika.org/uploads/2020/10/maps-and-location_0_1603391752.png" width="100px" height="100px">
+           <img src="https://mars.algoritmika.org/uploads/2020/10/shooter_0_1603391752.png" width="100px" height="100px">
+           <img src="https://mars.algoritmika.org/uploads/2020/10/tetris_0_1603391752.png" width="100px" height="100px">
+        <h2 id="games" style="text-align:center">За какую цену мы это делаем?</h2>
+           <table style="border: solid green 2px;border-collapse:collapse;">
+            <tr style="border: solid green 2px; background: lightblue">
+               <td style="border: solid green 2px">Вид работы</td>
+               <td style="border: solid green 2px">Подробности</td>
+               <td style="border: solid green 2px">Цена</td>
+            </tr>
+               <td style="border: solid green 2px; background: lightblue">Локализация</td>
+               <td style="border: solid green 2px"> Озвучивание, графика</td>
+               <td style="border: solid green 2px"> От 20 тыс. рублей</td>
+            <tr style="border: solid green 2px">
+               <td style="border: solid green 2px; background: lightblue">Портирование</td>
+               <td style="border: solid green 2px">Destop, Android, iOS</td>
+               <td style="border: solid green 2px">От 40 тыс. рублей</td>
+            </tr>
+           </table>
+        <h2 id="site" style="text-align:center" >Что делать если работа не понравилась?</h2>
+        <h3>Вы можете позвонить или написать нашему работнику, который сделал ваш заказ, отказаться от этой работы и заплатить 25% от данной услуги или попросить что-то переделать в работе за 5% от данной услуги </h3>
+        </main>
+        <footer style="background: lightgray">
+            <p>Сделать заказ:***********
+               <br/>Наш адрес: Телефонова 52
+            </p>
+        </footer>
+    </body>
+</html>
